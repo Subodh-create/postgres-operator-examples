@@ -136,7 +136,7 @@ postgresVersion: 16
 # as well as any permissions associated with the user account.
 users: 
   users:
-    - name: rhino
+    - name: "rhino"
       databases:
         - zoo
       options: 'SUPERUSER'
